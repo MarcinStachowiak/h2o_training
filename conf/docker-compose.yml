@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  h2o_training:
+    image: h2o_training:1.1
+    container_name: h2o_training_container
+    build: .
+    volumes:
+    - ./../:/home/workdir/
+    ports:
+      - "8888:8888"
+      - "54321:54321"

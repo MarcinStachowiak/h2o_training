@@ -1,0 +1,14 @@
+cycler==0.10.0
+matplotlib==2.1.0
+nltk==3.2.5
+numpy==1.13.3
+pyparsing==2.2.0
+python-dateutil==2.6.1
+pytz==2017.2
+six==1.11.0
+pyenchant==1.6.11
+gensim==3.0.1
+scipy==0.18.1
+pyemd==0.4.4
+scikit-learn
+tqdm
