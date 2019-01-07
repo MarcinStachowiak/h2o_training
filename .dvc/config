@@ -1,4 +1,4 @@
 ['remote "myremote"']
-url = https://s3-eu-west-1.amazonaws.com/h2o-test
+url = s3://h2o-test/h2o-project
 [core]
 remote = myremote
